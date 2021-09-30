@@ -1,2 +1,4 @@
 # c++ programs using class & objects
-   ## 1->Complex Number substraction
+   ## 1.Complex Number 
+     ###   -substraction
+     ###   -multiplication
